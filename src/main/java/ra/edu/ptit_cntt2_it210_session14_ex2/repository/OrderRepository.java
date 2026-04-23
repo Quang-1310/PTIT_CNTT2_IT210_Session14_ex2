@@ -6,8 +6,8 @@ import org.hibernate.Transaction;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import org.springframework.stereotype.Repository;
-import ra.edu.ptit_cntt2_it210_session14_ex2.model.Order;
-import ra.edu.ptit_cntt2_it210_session14_ex2.model.Product;
+import ra.edu.ptit_cntt2_it210_session14_ex2.model.entity.Order;
+import ra.edu.ptit_cntt2_it210_session14_ex2.model.entity.Product;
 
 @Repository
 public class OrderRepository {

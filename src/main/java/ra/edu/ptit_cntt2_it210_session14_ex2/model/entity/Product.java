@@ -1,4 +1,4 @@
-package ra.edu.ptit_cntt2_it210_session14_ex2.model;
+package ra.edu.ptit_cntt2_it210_session14_ex2.model.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

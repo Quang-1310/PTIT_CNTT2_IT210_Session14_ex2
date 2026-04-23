@@ -1,12 +1,10 @@
-package ra.edu.ptit_cntt2_it210_session14_ex2.model;
+package ra.edu.ptit_cntt2_it210_session14_ex2.model.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-
-import java.util.List;
 
 @Entity
 @Table(name = "orders")
